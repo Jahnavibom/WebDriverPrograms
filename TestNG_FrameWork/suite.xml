@@ -1,0 +1,12 @@
+<suite name= "Janu">
+	<test name = "Testngxml">
+		<classes>
+			<class name ="oct30.FirstTestngClass">
+				
+			</class>
+			<class name ="oct30.Before_Method">
+				
+			</class>
+		</classes>
+	</test>
+</suite>
